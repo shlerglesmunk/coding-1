@@ -1,0 +1,3 @@
+1#: AI is made to do whatever the internet has done before to make things easier for people. So it would probably get it's information from data centers. google, and maybe random photos the trainer picks out.
+
+2#: 1 benefit of AI is that it could probably help understand some 
