@@ -1,3 +1,7 @@
 1#: AI is made to do whatever the internet has done before to make things easier for people. So it would probably get it's information from data centers. google, and maybe random photos the trainer picks out.
 
-2#: 1 benefit of AI is that it could probably help understand some 
+2#: 1 benefit of AI is that it could probably help understand some subjects like math. It's mostly because the way it understands is because of past information from data centers. But the bottom line is that AI is made to be a tool, not a whole structure.
+
+3# AI is insanely easy to take for granted because its like the thing could just do it for you, which plants a huge problem. AI is starting to try and push to being used regularly. A reason why this is bad is because sometimes AI gets things wrong, and a very good example would be THE SCHEDULE MANAGEMENT AT THE BEGINNING OF THE YEAR IT WAS SO MESSED UP THAT THEY HAD TO CHANGE SO MANY CLASSES.
+
+4# Since a bunch of corperate bozos are pushing AI to be the norm, we might see people embracing that. The people that probably won't be happy with AI being regulated would either argue about or just not use social media at all. We might see flying cars with autopilot but it might lead to many car crashes since they will obviously be lead by AI models. AI might get so good at replicating art that even people who can easily tell that its AI would see the difference, which might put artists out of business sadly. And finally, there might be more AI models going rouge and performing attacks on companies.
