@@ -1,0 +1,5 @@
+1# Integers are whole numbers, floats are decimals, strings are characters in quotes, booleans decides whether code is true or false yada yada yada.
+2# It's like a folder for a folder you already have, like how a steam game has a folder just to have another folder after to get to the actual meat and bones of the game.
+3# Input since it main purpose is to write out information. That and printer solely rely on computers being the input.
+4# A variable is a little pickpocket to store data.
+5# "print" lets you show the variable data.
