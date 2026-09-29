@@ -5,5 +5,12 @@
 
 #numba 2
 
-numbert = input("what is numba?")
-print(numbert+360 == 500)
+#numbert = input("what is numba?")
+#print(int(numbert) + 360)
+
+#numba 3
+
+schoolZone = input("what block u in punk?")
+print(schoolZone == "boys latin")
+
+#numba 4
