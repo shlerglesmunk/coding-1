@@ -1,0 +1,7 @@
+1. Code documentation explains how code works.
+
+2. The code engine may be different to what the developer usually works in.
+
+3. Internal is code instructions for the organization and external is outside the organization.
+
+4. Having coding experience is needed to read a code documentation, it's like the vocabulary for a different language.
