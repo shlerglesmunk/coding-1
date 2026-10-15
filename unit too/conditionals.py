@@ -9,7 +9,7 @@
     #else:
      #   ccpApp()
 
-choicelet = input("picketh one" )
+# choicelet = input("picketh one" )
 
 #if choicelet == '1':
 #    calculate_add()
@@ -53,19 +53,19 @@ choicelet = input("picketh one" )
 #    print(numberOnes % numberTwos)
 
 
-ageison = input("picketh one" )
+age = int(input("type inyour age: " ))
 
-if ageison == ageison < 75
-    print("dude where are your parents man")
+if age < 8:
+    print("dude where are your parents man - 8.00")
 
-elif ageison == '2':
-    print("you are WAY too lucky your life has not prolonged enough for me to pay you more")
+elif age > 8 and age < 21:
+    print("you are WAY too lucky your life has not prolonged enough for me to pay you more. now gimme 12 dollar")
 
-elif ageison == '3':
-    calculate_multi()
+elif age > 21 and age < 61:
+    print("olllldiiiiiieee - 20 dollar")
 
-elif ageison == '':
-    calculate_divide()
+elif age > 61:
+    print("dude its ok i know youre in retirement this one is on the house")
 
 else:
     print("GET OUT")
