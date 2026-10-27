@@ -20,6 +20,5 @@ def rollie():
         
                 roll = input("gamblgamlbmalgmamglbmgamglbmgmalgmblgmglvb")
         
-print("ok goodbye")
 
 rollie()

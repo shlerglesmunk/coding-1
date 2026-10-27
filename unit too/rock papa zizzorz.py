@@ -10,3 +10,4 @@ def rpsorsomething():
     while rounds != 0:
         import random
         if weapon == (random.randint(1,3):
+            print("ok again")
