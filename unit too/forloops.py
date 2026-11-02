@@ -13,3 +13,7 @@ print (grocerylist)
 
 for i in grocerylist:
     print (i)
+
+
+#we can search and find values inside of lists
+#pulling a specific value is done by the nuber (its starts at 0)
