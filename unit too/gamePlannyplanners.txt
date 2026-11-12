@@ -1,0 +1,13 @@
+Main objective: survive the chasers for at least 60 seconds
+The timer may vary if you ever get anything that changes this timer.
+after time runs out you would have to pick an enemy to put in the mix or sometimes a curse before doing it all over again.
+every second you suffer though gives you 1 point, and that point is multiplied by the amount of chasers and curses you have.
+Touching a chaser at any point kills you and you have to start from the very beginning.
+
+You start with only being able to move but overtime you would get different abilities like dashing, or even teleporting.
+dying obviously removes all of these abilities.
+
+The chasers would each have a different method of catching you, and there can be multiple.
+Maybe some wont even chase you, but they will be something obstructing your path.
+
+Curses would mainly consist of something that debuffs you or buffs a chaser.

@@ -1,0 +1,2 @@
+The game will be a top down rougelike with only one goal: survive a bunch of enemys trying to catch you.
+You are are sent to different areas to dodge 
